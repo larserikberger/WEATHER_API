@@ -1,0 +1,175 @@
+*,
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: Arial;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+
+    max-width: 375px;
+    margin: 0 auto;
+    background: #89bdd3;
+}
+
+
+#currentDiv {
+
+    background-color: #89bdd3;
+    max-width: 375px;
+    margin: 0 auto;
+
+}
+
+
+h2 {
+
+    text-align: center;
+    font-weight: 100;
+    font-size: 4rem;
+    color: #fff;
+}
+
+
+#currentStad {
+
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 1.5rem;
+    color: #fff;
+
+}
+
+#currentTemp {
+
+    text-align: center;
+    font-size: 6rem;
+    font-weight: 100;
+    padding-top: 0.5rem;
+    color: #fff;
+
+}
+
+strong {
+    text-align: center;
+}
+
+
+#currentWeekDay {
+
+    text-align: center;
+    font-size: 1rem;
+}
+
+#currentTid {
+
+    font-size: 0.8rem;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 1rem;
+
+}
+
+#bildCurrent {
+
+    width: 80%;
+    padding-left: 5rem;
+
+}
+
+
+divDay {
+
+    text-align: center;
+
+
+}
+
+
+/*FORECAST*/
+
+#currentStad{
+    
+    padding-top: 3rem;   
+}
+
+
+
+h1 {
+
+    font-size: 1.2rem;
+    text-align: center; //padding-top: 3rem;
+    color: #fff;
+
+}
+
+#bildDay {
+
+    padding-left: 9.5rem;
+    margin-top: -1rem;
+}
+
+span {
+    text-align: center;
+}
+
+
+#maxTemp {
+    font-size: 0.8rem;
+    text-align: center;
+    color: #fff;
+    padding: 0rem;
+}
+
+#minTemp {
+    font-size: 0.8rem;
+    text-align: center;
+    color: #fff;
+    margin-top: -1.1rem;
+    padding-bottom: 2.2rem;
+
+}
+
+
+#weekDays {
+    padding-top: 2rem;
+    font-size: 1.5rem;
+}
+
+hr{
+    
+    margin-bottom: 0.1rem;
+}
